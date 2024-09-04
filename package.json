@@ -1,0 +1,29 @@
+{
+  "name": "viajerosproyect",
+  "version": "1.0.0",
+  "description": "Este es un proyecto realizado por Cristian Beltran basada en una idea al utilizar los sensacionales servicios de hopedaje y recreacion de el hostal Viajeros tayrona. Basicamente se trata de una pagina web donde puedes conocer gente que se este hospedando o se vaya a hospedar en el hostal, basicamente se le dara acceso a una applicacion o sitio web donde podra conversar y conocer los demas huespeds.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Viajeros",
+    "red",
+    "social",
+    "hostales",
+    "conocer",
+    "gente",
+    "en",
+    "hostales",
+    "viajes"
+  ],
+  "author": "Cristian David Beltran Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
